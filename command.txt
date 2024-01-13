@@ -1,0 +1,1 @@
+g++ main.cpp board.cpp -Lsfml/lib -Isfml/include -lsfml-graphics-s -lsfml-window-s -lsfml-system-s -DSFML_STATIC -lopengl32 -lwinmm -lgdi32
