@@ -1,1 +1,1 @@
-a simple chess game
+a simple chess game made using sfml
